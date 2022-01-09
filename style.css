@@ -2,3 +2,8 @@ h1 {
   color: cornflowerblue;
   font-size: 40px;
 }
+p {
+  font-size: 18px;
+  color: darkblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
